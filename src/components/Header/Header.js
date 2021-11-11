@@ -5,7 +5,7 @@ import HeaderNav from "../HeaderNav";
 
 function Header() {
     return (
-        <Container fluid className="header">
+        <Container fluid className="header p-0 overflow-hidden">
             <HeaderBanner/>
             <HeaderNav/>
         </Container>
