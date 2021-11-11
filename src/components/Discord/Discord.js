@@ -8,6 +8,8 @@ function Discord() {
         <Container fluid id="discord" className="discordContainer">
             <Row>
                 <Col>
+                    <h1>Join us on Discord!</h1>
+                    <br/>
                     <Image src={discordLogo} fluid className="discordLogo"/>
                     <a target="blank" href="http://discord.regionbattle.com">RegionBattle Discord</a>
                 </Col>

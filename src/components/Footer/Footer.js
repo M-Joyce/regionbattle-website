@@ -7,8 +7,7 @@ function Footer() {
         <Container fluid className="footer">
             <Row>
                 <Col md="12" className="footer-col">
-                    <h3>Footer RegionBattle MinecraftServer</h3>
-                    <p>Footer Content</p>
+                    <h4>RegionBattle Minecraft Server</h4>
                 </Col>
             </Row>
         </Container>
