@@ -1,0 +1,11 @@
+.discordContainer {
+    background-color: #3c3f41;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px #000000;
+    color: white;
+}
+.discordLogo{
+    margin-right:10%;
+}

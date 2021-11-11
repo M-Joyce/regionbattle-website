@@ -8,8 +8,8 @@ function HeaderNav() {
             <Container>
                 <Navbar.Brand href="#home">Home</Navbar.Brand>
                 <Nav className="me-auto">
-                    <Nav.Link href="#home">How to Play</Nav.Link>
-                    <Nav.Link href="#features">Discord</Nav.Link>
+                    <Nav.Link href="#howToPlay">How to Play</Nav.Link>
+                    <Nav.Link href="#discord">Discord</Nav.Link>
                 </Nav>
             </Container>
         </Navbar>
