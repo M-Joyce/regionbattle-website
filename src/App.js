@@ -4,17 +4,14 @@ import Footer from "./components/Footer/Footer";
 import Hero from "./components/Hero";
 import HowToPlay from "./components/HowToPlay";
 import Discord from "./components/Discord";
+import Main from "./Main/Main"
 
 function App() {
-  return (
-    <div className="App">
-        <Header/>
-        <Hero/>
-        <HowToPlay/>
-        <Discord/>
-        <Footer/>
-    </div>
-  );
+    return (
+        <div className="App">
+            <Main/>
+        </div>
+    );
 }
 
 export default App;
