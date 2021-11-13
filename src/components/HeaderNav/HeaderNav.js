@@ -5,17 +5,22 @@ import { Link } from "react-router-dom";
 
 function HeaderNav() {
     return (
-        <Navbar bg="dark" variant="dark">
-            <Container className="headerNav">
-                <Navbar.Brand href="/">Home</Navbar.Brand>
+    <Navbar bg="dark" expand="lg" variant="dark">
+        <Container className="headerNav">
+            <Navbar.Brand href="/">Home</Navbar.Brand>
+            <Navbar.Toggle aria-controls="basic-navbar-nav" />
+            <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto">
-                    <Nav.Link href="#howToPlay">How to Play</Nav.Link>
+                    <Nav.Link href="/#howToPlay">How to Play</Nav.Link>
                     <Nav.Link as={Link} to="/gamemodes">Game Modes</Nav.Link>
-                    <Nav.Link href="#discord">Discord</Nav.Link>
+                    <Nav.Link href="/#discord">Discord</Nav.Link>
                     <Nav.Link target="blank" href="http://play.regionbattle.com:8123/">SMP Map</Nav.Link>
                 </Nav>
-            </Container>
-        </Navbar>
+            </Navbar.Collapse>
+        </Container>
+    </Navbar>
+
+
     );
 }
 
