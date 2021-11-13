@@ -13,6 +13,9 @@
     background-image: linear-gradient( rgba(0,0,0,.1), rgba(0,0,0,.7) ), url('../../assets/howToPlayBG.png');
     background-size: 100% 1500px;
     border-top: 8px solid #3c3f41;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center center;
 }
 
 .howToPlay li{

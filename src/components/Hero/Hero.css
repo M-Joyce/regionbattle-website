@@ -1,5 +1,5 @@
 .heroImage {
     height: auto;
     width: 100%;
-    margin-top: -75px
+    position: relative;
 }
