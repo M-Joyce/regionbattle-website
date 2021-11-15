@@ -8,7 +8,7 @@ function Hero() {
             <Container fluid className="hero p-0 overflow-hidden">
                 <Row>
                     <Col>
-                        <Image src={heroImage} fluid className="heroImage" />
+                        <Image src={heroImage} fluid alt="RegionBattle Minecraft Server Hero Image, Join our Minecraft Server IP play.regionbattle.com" className="heroImage" />
                     </Col>
                 </Row>
             </Container>

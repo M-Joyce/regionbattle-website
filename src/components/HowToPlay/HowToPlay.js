@@ -10,7 +10,7 @@ function HowToPlay() {
             <Container fluid className="howToPlay p-0 overflow-hidden" id="howToPlay">
             <br/>
                 <Row className="connectDirections">
-                    <span className="playNow">Play RegionBattle Now!</span>
+                    <h1 className="playNow">Play the RegionBattle Minecraft Server Now!</h1>
 
                     <Col md={true} sm={true} className="playJava">
                         <h4>To join our server on Java:</h4>
