@@ -15,6 +15,7 @@ function HeaderNav() {
                     <Nav.Link as={Link} to="/gamemodes">Game Modes</Nav.Link>
                     <Nav.Link href="/#discord">Discord</Nav.Link>
                     <Nav.Link target="blank" href="http://play.regionbattle.com:8123/">SMP Map</Nav.Link>
+                    <Nav.Link as={Link} to="/vote">Vote</Nav.Link>
                 </Nav>
             </Navbar.Collapse>
         </Container>

@@ -1,0 +1,43 @@
+.voteTitle{
+    background-color: #3c3f41;
+    font-size: 20px;
+    padding: 10px;
+    text-shadow: 2px 2px 3px #000000;
+    color: white;
+    margin: auto;
+}
+
+.vote{
+    background-color: #3c3f41;
+}
+.voteRow{
+    padding: 15px;
+    margin: auto;
+
+    font-size: 20px;
+    text-shadow: 2px 2px 2px #3c3f41;
+    color: white;
+}
+
+.voteRow a {
+    display: inline-block;
+    border: black;
+    border-radius: 5px;
+    background-color: #525659;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-block: 0.3%;
+}
+
+.voteRow a:hover {
+    background-color: #212529;
+}
+
+.voteRow a:visited {
+    color: #ffffff;
+}
+
+
+
