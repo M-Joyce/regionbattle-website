@@ -16,6 +16,9 @@ function VoteRoute() {
                 <Row className="voteRow">
 
                     <Col md={true} sm={true}>
+
+                        <h4>Voting for RegionBattle helps grow the community, and you will receive tokens and money as a reward! You can vote daily!</h4>
+
                         <a target="blank" href="https://best-minecraft-servers.co/server-regionbattle.1311/vote">Vote on best-minecraft-servers.co</a>
                         <br/>
                         <a target="blank" href="https://minecraftservers.org/server/624356">Vote on minecraftservers.org</a>
