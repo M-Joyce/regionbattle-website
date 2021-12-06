@@ -10,7 +10,6 @@
 .rules{
     background-color: #3c3f41;
     min-height: 65vh;
-    width: 100vw;
 }
 
 @media only screen and (max-width: 800px) {
