@@ -1,0 +1,78 @@
+.rulesTitle{
+    background-color: #3c3f41;
+    font-size: 20px;
+    text-shadow: 2px 2px 3px #000000;
+    color: white;
+    margin: auto;
+    padding: 15px;
+}
+
+.rules{
+    background-color: #3c3f41;
+    min-height: 65vh;
+    width: 100vw;
+}
+
+@media only screen and (max-width: 800px) {
+    .rules {
+        min-height: 90vh !important;
+    }
+
+    .rulesRow h4 {
+        font-size: 1rem !important;
+    }
+
+}
+
+.rulesRow{
+    padding: 10px;
+    margin: auto;
+
+    font-size: 20px;
+    color: white;
+}
+
+.rulesRow h4 {
+    font-size: 1.5rem;
+    text-shadow: 2px 2px 2px #000000;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.rulesRow .accordion-item{
+    width:90%;
+    margin: auto;
+}
+
+.rulesRow .accordion-item .accordion-header{
+
+}
+
+.rulesRow .accordion-item .accordion-button{
+    background-color: #525659;
+    font-weight: bold;
+    color: white;
+
+}
+
+.rulesRow .accordion-item .accordion-button:focus{
+    box-shadow: 0 0 0 .15rem rgb(124, 124, 124) !important;
+    color: white !important;
+
+}
+
+.rulesRow .accordion-item .accordion-body{
+    background-color: #73797e;
+    font-size: 18px;
+}
+
+.rulesRow .accordion-button:not(.collapsed){
+    color: white !important;
+}
+
+.rulesRow .accordion-button:after {
+    background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'><path fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/></svg>") !important;
+}
+
+
