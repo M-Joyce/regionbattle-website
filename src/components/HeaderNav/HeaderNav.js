@@ -17,7 +17,7 @@ function HeaderNav() {
                     <Nav.Link target="blank" href="http://play.regionbattle.com:8123/">SMP Map</Nav.Link>
                     <Nav.Link as={Link} to="/vote">Vote</Nav.Link>
                     <Nav.Link as={Link} to="/rules">Rules</Nav.Link>
-                    <Nav.Link target="blank" href="https://store.regionbattle.com/">Store</Nav.Link>
+                    <Nav.Link target="blank" href="http://store.regionbattle.com/">Store</Nav.Link>
                 </Nav>
             </Navbar.Collapse>
         </Container>
