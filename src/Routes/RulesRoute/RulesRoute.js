@@ -50,6 +50,12 @@ function RulesRoute() {
                                     This is a blanket rule to cover things that absolutely will not be tolerated, such as discrimination/racism, excess swearing/vulgarity, etc.
                                 </Accordion.Body>
                             </Accordion.Item>
+                            <Accordion.Item eventKey="4">
+                                <Accordion.Header>Banned from our server and want to appeal?</Accordion.Header>
+                                <Accordion.Body>
+                                    Have you changed for the better? Are you sorry? Plead your case for a ban appeal <a href="https://forms.gle/oKwGZhUD5abzbA7p7" target="_blank">here</a>.
+                                </Accordion.Body>
+                            </Accordion.Item>
                         </Accordion>
 
                     </Col>
