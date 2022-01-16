@@ -34,7 +34,8 @@ function RulesRoute() {
                                 <Accordion.Header>Absolutely no griefing in the survival worlds.</Accordion.Header>
                                 <Accordion.Body>
                                     Absolutely no griefing will be tolerated in the RegionBattle survival worlds. Examples of this include but are not limited to: lava casting, damaging player builds, farms, unnecessary use of TNT above ground, killing named mobs or a player's villagers.<br/>
-                                    *Note: Griefing is allowed in the <strong>Battle</strong> worlds, as these worlds are reset during every scheduled restart.
+                                    *Note: Griefing is allowed in the <strong>Battle</strong> worlds, as these worlds are reset during every scheduled restart.<br/>
+                                    *Note: Stealing is allowed, and removing <strong>valueable</strong> blocks from unclaimed builds for a player's own gain will be considered stealing and not griefing.
                                 </Accordion.Body>
                             </Accordion.Item>
                             <Accordion.Item eventKey="2">
