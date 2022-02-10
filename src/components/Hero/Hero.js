@@ -1,7 +1,7 @@
 import {Col, Container, Image, Row} from "react-bootstrap";
 import React from "react";
 import "./Hero.css"
-import heroImage from "../../assets/HeroImg.png";
+import heroImage from "../../assets/HeroImg.jpg";
 
 function Hero() {
     return (
